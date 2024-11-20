@@ -3,3 +3,6 @@ sssss;
 AGAIN;
 
 //UU2U2U2U2UU2U2U2U2U2U2U2U2U2
+
+
+no main
